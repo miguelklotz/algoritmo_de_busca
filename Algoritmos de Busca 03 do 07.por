@@ -43,5 +43,3 @@ git programa
 		}
 	}
 }
-//muda
-//Henrique gAY
