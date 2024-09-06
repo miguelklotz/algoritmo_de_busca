@@ -1,6 +1,6 @@
 # ***Algoritmo de busca***
 
-### Este é um repositório sobre *odigos de algoritmo de busca
+### Este é um repositório sobre códigos de algoritmo de busca
 
 ```
 git init
