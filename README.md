@@ -9,7 +9,7 @@
 |Aperte para rodar o código      |   
 | Escolha um número        |
 | veja o código procurando número que vc escolheu|     |     
-|O código te mostrara o rusultado|
+|O código te mostrara o resultado|
 ## Constribuição
 Feito pro Miguel Klotz Mantovani e Henrique Dell'Antonio Riscarolli
 
