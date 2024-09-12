@@ -9,7 +9,7 @@
 |Aperte para rodar o código      |   
 | Escolha um número        |
 | veja o código procurando número que vc escolheu|     |     
-|asds |
+|O código te mostrara o rusultado|
 ## Constribuição
 Feito pro Miguel Klotz Mantovani
 
