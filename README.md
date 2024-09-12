@@ -11,6 +11,6 @@
 | veja o código procurando número que vc escolheu|     |     
 |O código te mostrara o rusultado|
 ## Constribuição
-Feito pro Miguel Klotz Mantovani
+Feito pro Miguel Klotz Mantovani e Henrique Dell'Antonio Riscarolli
 
 
